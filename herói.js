@@ -32,3 +32,4 @@ if( XP < 1001){
 
 console.log("  ")
 console.log("O nosso herói Mclaren alcançou o nível Ascendente!" ) 
+
